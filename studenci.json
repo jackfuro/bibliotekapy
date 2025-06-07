@@ -4,7 +4,8 @@
         "imie": "Jan Kowalski",
         "wypozyczone_ksiazki": [
             1
-        ]
+        ],
+        "ukryty": false
     },
     {
         "id": 2,
@@ -14,41 +15,56 @@
     {
         "id": 3,
         "imie": "Piotr Wiśniewski",
-        "wypozyczone_ksiazki": []
+        "wypozyczone_ksiazki": [],
+        "ukryty": false
     },
     {
         "id": 4,
         "imie": "Katarzyna Wójcik",
-        "wypozyczone_ksiazki": []
+        "wypozyczone_ksiazki": [],
+        "ukryty": false
     },
     {
         "id": 5,
         "imie": "Michał Lewandowski",
-        "wypozyczone_ksiazki": []
+        "wypozyczone_ksiazki": [],
+        "ukryty": false
     },
     {
         "id": 6,
         "imie": "Agnieszka Kamińska",
-        "wypozyczone_ksiazki": []
+        "wypozyczone_ksiazki": [],
+        "ukryty": false
     },
     {
         "id": 7,
         "imie": "Tomasz Zalewski",
-        "wypozyczone_ksiazki": []
+        "wypozyczone_ksiazki": [],
+        "ukryty": false
     },
     {
         "id": 8,
         "imie": "Monika Pawlak",
-        "wypozyczone_ksiazki": []
+        "wypozyczone_ksiazki": [],
+        "ukryty": false
     },
     {
         "id": 10,
         "imie": "Ewa Jankowska",
-        "wypozyczone_ksiazki": []
+        "wypozyczone_ksiazki": [],
+        "ukryty": false
     },
     {
         "id": 11,
         "imie": "kamil kaminski",
-        "wypozyczone_ksiazki": []
+        "wypozyczone_ksiazki": [],
+        "ukryty": false
+    },
+    {
+        "id": 12,
+        "imie": "kali jesc",
+        "wypozyczone_ksiazki": [
+            8
+        ]
     }
 ]

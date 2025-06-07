@@ -183,6 +183,31 @@ def dodaj_ksiazke():
     zapisz_ksiazki()
     print("Książka dodana.")
 
+def pokaz_ukrytych_studentow():
+    print("\nUkryci studenci:")
+    ukryci = [s for s in studenci if s.get("ukryty")]
+    if not ukryci:
+        print("Brak ukrytych studentów.")
+        return
+    print(f"{'ID':<3} {'Imię i nazwisko':<25}")
+    for s in ukryci:
+        print(f"{s['id']:<3} {s['imie']:<25}")
+
+def przywroc_studenta():
+    pokaz_ukrytych_studentow()
+    try:
+        ids = int(input("Podaj ID studenta do przywrócenia: "))
+    except ValueError:
+        print("Błędne ID.")
+        return
+    student = next((s for s in studenci if s.get("ukryty") and s["id"] == ids), None)
+    if not student:
+        print("Nie znaleziono ukrytego studenta.")
+        return
+    student.pop("ukryty", None)
+    zapisz_studentow()
+    print("Student został przywrócony.")
+
 def wypozycz_ksiazke():
     pokaz_studentow()
     try:
@@ -296,7 +321,8 @@ def menu():
         print("7. Dodaj książkę")
         print("8. Wypożycz książkę")
         print("9. Zwróć książkę")
-        print("10. Kończące sie wypożyczenia")
+        print("10. Kończące się wypożyczenia")
+        print("11. Przywróć ukrytego studenta")  # Nowa opcja
         print("0. Wyjście")
         wybor = input("Wybierz opcję: ")
         if wybor == "1":
@@ -319,6 +345,8 @@ def menu():
             zwroc_ksiazke()
         elif wybor == "10":
             raport_zwroty()
+        elif wybor == "11":
+            przywroc_studenta()
         elif wybor == "0":
             print("Do widzenia!")
             break
@@ -327,3 +355,4 @@ def menu():
 
 if __name__ == "__main__":
     menu()
+
