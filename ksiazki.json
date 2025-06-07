@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "autor": "Adam Mickiewicz",
+        "tytul": "Pan Tadeusz",
+        "rok": 1834,
+        "strony": 320,
+        "egzemplarze": 3,
+        "wypozyczone": 1
+    },
+    {
+        "id": 2,
+        "autor": "Henryk Sienkiewicz",
+        "tytul": "Quo Vadis",
+        "rok": 1896,
+        "strony": 450,
+        "egzemplarze": 4,
+        "wypozyczone": 1
+    },
+    {
+        "id": 3,
+        "autor": "Juliusz Słowacki",
+        "tytul": "Kordian",
+        "rok": 1834,
+        "strony": 200,
+        "egzemplarze": 2,
+        "wypozyczone": 0
+    },
+    {
+        "id": 4,
+        "autor": "Bolesław Prus",
+        "tytul": "Lalka",
+        "rok": 1890,
+        "strony": 600,
+        "egzemplarze": 5,
+        "wypozyczone": 0
+    },
+    {
+        "id": 5,
+        "autor": "Stefan Żeromski",
+        "tytul": "Ludzie bezdomni",
+        "rok": 1900,
+        "strony": 350,
+        "egzemplarze": 3,
+        "wypozyczone": 0
+    },
+    {
+        "id": 6,
+        "autor": "Maria Konopnicka",
+        "tytul": "Pan Balcer w Brazylii",
+        "rok": 1912,
+        "strony": 280,
+        "egzemplarze": 2,
+        "wypozyczone": 0
+    },
+    {
+        "id": 7,
+        "autor": "Władysław Reymont",
+        "tytul": "Chłopi",
+        "rok": 1904,
+        "strony": 720,
+        "egzemplarze": 4,
+        "wypozyczone": 0
+    },
+    {
+        "id": 8,
+        "autor": "Józef Ignacy Kraszewski",
+        "tytul": "Stara baśń",
+        "rok": 1876,
+        "strony": 400,
+        "egzemplarze": 3,
+        "wypozyczone": 0
+    },
+    {
+        "id": 9,
+        "autor": "Zofia Nałkowska",
+        "tytul": "Granica",
+        "rok": 1935,
+        "strony": 310,
+        "egzemplarze": 2,
+        "wypozyczone": 0
+    },
+    {
+        "id": 10,
+        "autor": "Jan Kochanowski",
+        "tytul": "Treny",
+        "rok": 1580,
+        "strony": 100,
+        "egzemplarze": 1,
+        "wypozyczone": 0
+    },
+    {
+        "id": 11,
+        "autor": "Juliusz Słowacki",
+        "tytul": "Balladyna",
+        "rok": 1834,
+        "strony": 150,
+        "egzemplarze": 3,
+        "wypozyczone": 0
+    },
+    {
+        "id": 12,
+        "autor": "Eliza Orzeszkowa",
+        "tytul": "Nad Niemnem",
+        "rok": 1888,
+        "strony": 520,
+        "egzemplarze": 4,
+        "wypozyczone": 0
+    },
+    {
+        "id": 13,
+        "autor": "Czesław Miłosz",
+        "tytul": "Zniewolony umysł",
+        "rok": 1953,
+        "strony": 280,
+        "egzemplarze": 3,
+        "wypozyczone": 0
+    },
+    {
+        "id": 14,
+        "autor": "Wisława Szymborska",
+        "tytul": "Ludzie na moście",
+        "rok": 1986,
+        "strony": 200,
+        "egzemplarze": 2,
+        "wypozyczone": 0
+    },
+    {
+        "id": 15,
+        "autor": "Bruno Schulz",
+        "tytul": "Sklepy cynamonowe",
+        "rok": 1934,
+        "strony": 140,
+        "egzemplarze": 1,
+        "wypozyczone": 0
+    },
+    {
+        "id": 16,
+        "autor": "Olga Tokarczuk",
+        "tytul": "Prawiek i inne czasy",
+        "rok": 1996,
+        "strony": 450,
+        "egzemplarze": 4,
+        "wypozyczone": 0
+    },
+    {
+        "id": 17,
+        "autor": "Stanisław Lem",
+        "tytul": "Solaris",
+        "rok": 1961,
+        "strony": 300,
+        "egzemplarze": 5,
+        "wypozyczone": 0
+    },
+    {
+        "id": 18,
+        "autor": "Henryk Sienkiewicz",
+        "tytul": "Potop",
+        "rok": 1886,
+        "strony": 850,
+        "egzemplarze": 4,
+        "wypozyczone": 0
+    },
+    {
+        "id": 19,
+        "autor": "Zbigniew Herbert",
+        "tytul": "Pan Cogito",
+        "rok": 1974,
+        "strony": 190,
+        "egzemplarze": 3,
+        "wypozyczone": 0
+    },
+    {
+        "id": 20,
+        "autor": "Jacek Dukaj",
+        "tytul": "lod",
+        "rok": 2007,
+        "strony": 750,
+        "egzemplarze": 2,
+        "wypozyczone": 0
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "imie": "Jan Kowalski",
+        "wypozyczone_ksiazki": [
+            1
+        ]
+    },
+    {
+        "id": 2,
+        "imie": "Anna Nowak",
+        "wypozyczone_ksiazki": []
+    },
+    {
+        "id": 3,
+        "imie": "Piotr Wiśniewski",
+        "wypozyczone_ksiazki": []
+    },
+    {
+        "id": 4,
+        "imie": "Katarzyna Wójcik",
+        "wypozyczone_ksiazki": []
+    },
+    {
+        "id": 5,
+        "imie": "Michał Lewandowski",
+        "wypozyczone_ksiazki": []
+    },
+    {
+        "id": 6,
+        "imie": "Agnieszka Kamińska",
+        "wypozyczone_ksiazki": []
+    },
+    {
+        "id": 7,
+        "imie": "Tomasz Zalewski",
+        "wypozyczone_ksiazki": []
+    },
+    {
+        "id": 8,
+        "imie": "Monika Pawlak",
+        "wypozyczone_ksiazki": []
+    },
+    {
+        "id": 10,
+        "imie": "Ewa Jankowska",
+        "wypozyczone_ksiazki": []
+    },
+    {
+        "id": 11,
+        "imie": "kamil kaminski",
+        "wypozyczone_ksiazki": []
+    }
+]
