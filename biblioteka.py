@@ -322,7 +322,7 @@ def menu():
         print("8. Wypożycz książkę")
         print("9. Zwróć książkę")
         print("10. Kończące się wypożyczenia")
-        print("11. Przywróć ukrytego studenta")  # Nowa opcja
+        print("11. Przywróć ukrytego studenta")
         print("0. Wyjście")
         wybor = input("Wybierz opcję: ")
         if wybor == "1":
